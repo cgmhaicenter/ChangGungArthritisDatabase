@@ -7,14 +7,16 @@ Articular capsules exist in most joint structures, which consist of two parts ca
 # Data Description
 The Chang Gung Arthritis Database contains patients’ X-ray images with knee, hip and hand degenerative arthritis (Osteoarthritis) and rheumatoid arthritis from 2009 to 2019 at Linkou Chang Gung Memorial Hospital (CGMH). Table below shows a summary for the number of X-ray images corresponding to each type of disease and counts of patients’ gender. All patients’ information has been de-identified for its privacy. For those who want to use the database for their researches could gain access rights by requesting from the Medical Artificial Intelligence department in CGMH.
 
-Requesting Datasets
-To request a dataset, please contact the Center of Artificial Intelligence in Medicine at cgmhailab@gmail.com
-
 <img src= https://github.com/yaufan/ChangGungArthritisDatabase/blob/main/ChangGungArthritisDatabase_Table.png height="250" width="640" />
 
 --------------------------------------------------
 
 <img src= https://github.com/yaufan/ChangGungArthritisDatabase/blob/main/ChangGungArthritisDatabase_Figure.png height="300" width="300" />
+
+--------------------------------------------------
+
+# Requesting Datasets
+To request a dataset, please contact the Center of Artificial Intelligence in Medicine at cgmhailab@gmail.com
 
 
  
