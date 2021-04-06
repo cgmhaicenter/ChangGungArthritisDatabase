@@ -14,7 +14,7 @@ To request a dataset, please contact the Center of Artificial Intelligence in Me
 
 --------------------------------------------------
 
-<img src= https://github.com/yaufan/ChangGungArthritisDatabase/blob/main/ChangGungArthritisDatabase_Figure.png height="250" width="250" />
+<img src= https://github.com/yaufan/ChangGungArthritisDatabase/blob/main/ChangGungArthritisDatabase_Figure.png height="300" width="300" />
 
 
  
