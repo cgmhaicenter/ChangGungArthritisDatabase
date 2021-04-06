@@ -1,7 +1,5 @@
-# ChangGungArthritisDatabase
-Published: 31JULY2020 Version: 1.0.0
-
 # Chang Gung Arthritis Database
+Published: 06APRIL2021 Version: 1.0.0
 
 # Background
 Articular capsules exist in most joint structures, which consist of two parts cartilage and synovial fluid. They serve as a bridge to connect two bones. Cartilage covers the end of long bones and provides cushioning, and the synovial fluid is mainly for lubrication, allowing the bones to move smoothly. When cartilage wears excessively due to various reasons, or abnormal synovial fluid secretion occurs, symptoms of pain and discomfort may appear, and simple behaviors such as walking, sitting, bending, and turning may also be affected. The types of arthritis can be roughly divided into: degenerative arthritis, rheumatoid arthritis, gouty arthritis, and ankylosing spondylitis, although the causes and locations of arthritis varies, but most of the symptoms are similar. Therefore, in addition to listening to the patient’s statement, clinical diagnosis will be based on X-ray images, where the joint imaging features and structures providing the evidence for further evaluation. These clinical features include (but not limited to) the proliferation of bone spurs, smaller space between joints compared to normal, and the cartilage produces cysts or calcification. Each patient could take about 1 to 2 X-ray images with different views for one examination, and the number of X-ray examinations varies according to different treatment methods.
