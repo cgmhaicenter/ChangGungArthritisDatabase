@@ -10,7 +10,7 @@ The Chang Gung Arthritis Database contains patients’ X-ray images with knee, h
 Requesting Datasets
 To request a dataset, please contact the Center of Artificial Intelligence in Medicine at cgmhailab@gmail.com
 
-<img src= https://github.com/yaufan/ChangGungArthritisDatabase/blob/main/ChangGungArthritisDatabase_Table.png height="250" width="600" />
+<img src= https://github.com/yaufan/ChangGungArthritisDatabase/blob/main/ChangGungArthritisDatabase_Table.png height="250" width="640" />
 
 --------------------------------------------------
 
